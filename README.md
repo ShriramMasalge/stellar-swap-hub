@@ -7,7 +7,17 @@ https://stellar-swap-hub-git-main-shrirammasalges-projects.vercel.app
 
 ## 📸 Screenshots
 ### Desktop Dashboard
-![Dashboard](https://stellar-swap-hub-git-main-shrirammasalges-projects.vercel.app)
+
+
+
+<img width="1870" height="894" alt="image" src="https://github.com/user-attachments/assets/253e21fe-25b0-4379-99a1-66184e9d8ee2" />
+
+
+
+<img width="1859" height="805" alt="image" src="https://github.com/user-attachments/assets/f4f0055d-9245-4c99-a71c-2391f80e7c95" />
+
+
+
 
 ### Mobile View
 
