@@ -10,7 +10,10 @@ https://stellar-swap-hub-git-main-shrirammasalges-projects.vercel.app
 ![Dashboard](https://stellar-swap-hub-git-main-shrirammasalges-projects.vercel.app)
 
 ### Mobile View
-(Add mobile screenshot here)
+
+
+<img width="256" height="388" alt="image" src="https://github.com/user-attachments/assets/1fabe824-892d-4430-9006-cb71cdaceb1d" />
+
 
 ## ✨ Features
 - 💱 AMM token swaps (SWT-A ↔ SWT-B)
