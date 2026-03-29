@@ -25,6 +25,17 @@ https://stellar-swap-hub-git-main-shrirammasalges-projects.vercel.app
 <img width="256" height="388" alt="image" src="https://github.com/user-attachments/assets/1fabe824-892d-4430-9006-cb71cdaceb1d" />
 
 
+
+## 🔄 CI/CD Status
+
+
+
+<img width="1038" height="739" alt="image" src="https://github.com/user-attachments/assets/31259d9f-0536-4ef6-86e2-f8deeda2ea6b" />
+
+
+
+
+
 ## ✨ Features
 - 💱 AMM token swaps (SWT-A ↔ SWT-B)
 - 🏊 Liquidity pool with TVL tracking
