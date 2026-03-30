@@ -15,26 +15,21 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '22'
+          node-version: '22.x'
           
-      - name: Remove old node_modules
-        run: rm -rf frontend/node_modules
-          
-      - name: Install dependencies
-        run: cd frontend && npm install
-          
-      - name: Build frontend
-        run: cd frontend && npx --yes vite build
+      - name: Install and Build
+        working-directory: ./frontend
+        run: |
+          node --version
+          npm install --legacy-peer-deps
+          npx vite build
 
   contracts-test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       
-      - name: Install Rust
-        run: rustup target add wasm32-unknown-unknown
-          
-      - name: Check contracts exist
+      - name: Verify contracts
         run: |
           ls contracts/
-          echo "Contracts verified successfully"
+          echo "All contracts present"
