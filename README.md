@@ -28,9 +28,13 @@ https://stellar-swap-hub-git-main-shrirammasalges-projects.vercel.app
 
 ## 🔄 CI/CD Status
 
-
+🔗 GitHub Actions: https://github.com/ShriramMasalge/stellar-swap-hub/actions
 
 <img width="859" height="326" alt="cicd" src="https://github.com/user-attachments/assets/bcefcaef-ff0c-412d-99a4-3e2a05eac9ec" />
+
+
+
+Real CI/CD workflow implemented at `.github/workflows/ci.yml` — automatically runs on every push to `main` branch.
 
 
 
